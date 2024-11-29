@@ -2,7 +2,6 @@
 
 Welcome to **DevPeak Innovations**! We are a cutting-edge software company dedicated to transforming your ideas into powerful digital solutions. Our expertise lies in building **custom software** and **SaaS (Software as a Service) products** tailored to meet the unique needs of businesses across various industries.
 
-
 ## 🌟 About Us
 
 At DevPeak Innovations, we believe in harnessing the power of technology to drive business success. Our team of skilled developers, designers, and strategists work collaboratively to deliver top-tier software solutions that are both scalable and user-centric. Whether you're a startup looking to disrupt the market or an established enterprise seeking to innovate, we have the expertise to bring your vision to life.
